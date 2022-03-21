@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Угадай коробку</string>
+
+    <string name="button_start">Start</string>
+    <string name="button_options">Options</string>
+    <string name="button_about">About</string>
+    <string name="button_exit">Exit</string>
+
+    <string name="label_options">Options</string>
+    <string name="label_about">About</string>
+
+    <string name="button_ok">OK</string>
+    <string name="versionName">1.0</string>
+    <string name="button_confirm">Применить</string>
+    <string name="button_cancel">Отмена</string>
+    <string name="textview_choose">Выберите количество коробок:</string>
+    <string name="content_description">box</string>
+    <string name="textViewBox">Box</string>
+</resources>
